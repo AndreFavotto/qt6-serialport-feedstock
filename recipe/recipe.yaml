@@ -33,6 +33,11 @@ requirements:
     - pkg-config
   host:
     - qt6-main
+  run:
+    - if: osx
+      then:
+        # qt6-serialport needs kIOMainPortDefault
+        - __osx >= 12.0
 
 tests:
   - package_contents:
