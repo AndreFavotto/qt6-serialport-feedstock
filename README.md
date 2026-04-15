@@ -184,5 +184,7 @@ In order to produce a uniquely identifiable distribution:
 Feedstock Maintainers
 =====================
 
+* [@AndreFavotto](https://github.com/AndreFavotto/)
+* [@conda-forge/qt-main](https://github.com/orgs/conda-forge/teams/qt-main/)
 * [@multimeric](https://github.com/multimeric/)
 
